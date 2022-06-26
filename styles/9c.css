@@ -1,0 +1,8 @@
+.question-box {
+  border: solid;
+  border-color: lightgray;
+  padding-bottom: 20px;
+  padding-left: 16px;
+  padding-right: 16px;
+  display: inline-block;
+}

@@ -1,0 +1,48 @@
+p {
+  font-family: Roboto,Arial;
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.profile-picture {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 100px;
+}
+
+.profile-name {
+  font-weight: bold;
+  margin-left: 14px;
+  margin-bottom: 10px;
+}
+
+.profile-description,
+.special-title {
+  color: grey;
+  margin-left: 14px;
+  margin-bottom: 10px;
+}
+
+.follow-button {
+  margin-left: 300px;
+}
+
+button {
+  border: none;
+  background-color: rgb(89, 147, 255);
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}

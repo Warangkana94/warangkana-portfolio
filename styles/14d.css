@@ -1,0 +1,19 @@
+p {
+  font-family: Roboto,Arial;
+}
+
+.modal {
+  width: 60%;
+  background-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: lightgrey;
+  border-radius: 4px;
+  padding: 16px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 0;
+}
